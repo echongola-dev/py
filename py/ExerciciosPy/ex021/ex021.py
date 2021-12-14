@@ -1,4 +1,4 @@
 from playsound import playsound
-playsound('D:\Zamani\Musik\Hugh Masekela - Old People, Old Folks.mp3')
+playsound('D:\Zamani\Musik\Ellputo - Swa Ni Fanela (feat. Mano Tsotsi).mp3')
 
-# "D:\Zamani\Musik\Hugh Masekela - Old People, Old Folks.mp3"  <== thid id the directory
+# "D:\Zamani\Musik\Ellputo - Swa Ni Fanela (feat. Mano Tsotsi).mp3"  <== thid id the directory'
